@@ -1,0 +1,50 @@
+.color-red{
+    color: #F9B4B0;
+}
+#color-green{
+    color: #CFF1D1;
+}
+.background{
+    background-color: green;
+    width: 200px;
+    height: 100px;
+}
+.img-background {
+    width: 1920px;
+    height: 1272px;
+    background-image: url(images/hero-bg.jpg    );
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box-model{
+    background-color: green;
+    text-align: center;
+    color: #fff;
+    width: 100vw;
+    height: 22px;
+    border: 5px #000 solid;
+    padding: 22px;
+    margin-bottom: 20px;
+}
+.border-red{
+    border: 9px dashed #D5D6D8;
+    width: 100vw;
+    height: 26px;
+    text-align: right;
+    background-color: red;
+    background-size: cover;
+    padding: 26px;
+    background-clip: padding-box;
+}
+.font-p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+}
+.liststyle{
+    list-style-type: none;
+    padding-left: 0px;
+}
